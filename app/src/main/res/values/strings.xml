@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PRC_Servlet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cnp">PRC_Servlet</string>
+    <string name="err_msg_cnp">CNP Invalid!</string>
+    <string name="err_msg_empty_name">Completati numele!</string>
+    <string name="err_msg_empty_cnp">Completati CNP-ul!</string>
+    <string name="err_msg_empty_surname">Completati prenumele!</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dorin/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-android/4.3.5/82edcaec6c7b4599eaeaaf11167ceea41db42f33/httpclient-android-4.3.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82edcaec6c7b4599eaeaaf11167ceea41db42f33">
+        <dex dex="/home/dorin/workspace-android/Android-Servlet-PRC/app/build/intermediates/pre-dexed/debug/httpclient-android-4.3.5_e74016d77ed05a68f92c6fc7fbfc21274b47a15f.jar" />
+    </item>
+
+</items>
